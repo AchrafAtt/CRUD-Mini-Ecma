@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Ecma</title>
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/custom.css">
+  <script type="module" src="./js/scpit.js" defer> </script>
+</head>
+<body>
+  <div class="container">
+    <div id="app">
+      <h1>Add Student</h1>
+      <form method="post">
+        <div class="mb-3">
+          <label for="name" class="form-label">Name</label>
+          <input type="text" name="name" class="form-control" id="name">
+          
+        </div>
+        <div class="mb-3">
+          <label for="date" class="form-label">Date</label>
+          <input type="date" name="date" class="form-control" id="date">
+          
+        </div>
+        <div class="mb-3">
+          <label for="name" class="form-label">Note</label>
+          <input type="number" min="0" max="100" step="1" name="note" class="form-control" id="note">
+          
+        </div>
+        <div class="mb-3">
+        <button class="btn btn-success form-control" id="add">Ajouter</button>
+        </div>
+      </form>
+      <h1>Student List</h1>
+      <span><button class="btn btn-primary" id="refresh">Actualiser</button></span>
+      <div class="table-responsive my-3">
+        <table class="table table-info">
+          <thead>
+            <tr>
+              <th scope="col">Id</th>
+              <th scope="col">Nom</th>
+              <th scope="col">Age</th>
+              <th scope="col">Note</th>
+              <th scope="col">Supprimer</th>
+            </tr>
+          </thead>
+          <tbody class="stdent-list">
+          
+          </tbody>
+        </table>
+      </div>
+      
+    </div>
+  </div>
+</body>
+</html>

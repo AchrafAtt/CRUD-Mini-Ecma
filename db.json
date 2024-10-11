@@ -1,0 +1,142 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "date": "1998-05-15",
+      "note": 95
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "date": "1999-02-22",
+      "note": 88
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "date": "1997-09-10",
+      "note": 75
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "date": "1998-11-30",
+      "note": 91
+    },
+    {
+      "id": 5,
+      "name": "Daniel Wilson",
+      "date": "1999-07-05",
+      "note": 82
+    },
+    {
+      "id": 6,
+      "name": "Olivia Brown",
+      "date": "1998-03-18",
+      "note": 88
+    },
+    {
+      "id": 7,
+      "name": "William Lee",
+      "date": "1997-12-25",
+      "note": 90
+    },
+    {
+      "id": 8,
+      "name": "Sophia Garcia",
+      "date": "1999-04-14",
+      "note": 78
+    },
+    {
+      "id": 9,
+      "name": "James Martinez",
+      "date": "1997-08-07",
+      "note": 86
+    },
+    {
+      "id": 10,
+      "name": "Ava Rodriguez",
+      "date": "1998-01-12",
+      "note": 92
+    },
+    {
+      "id": 11,
+      "name": "Benjamin Harris",
+      "date": "1999-10-03",
+      "note": 89
+    },
+    {
+      "id": 12,
+      "name": "Mia Taylor",
+      "date": "1998-06-20",
+      "note": 81
+    },
+    {
+      "id": 13,
+      "name": "Elijah Clark",
+      "date": "1997-04-09",
+      "note": 94
+    },
+    {
+      "id": 14,
+      "name": "Charlotte Adams",
+      "date": "1999-08-14",
+      "note": 87
+    },
+    {
+      "id": 15,
+      "name": "Samuel Turner",
+      "date": "1998-02-27",
+      "note": 93
+    },
+    {
+      "id": 16,
+      "name": "Lily Walker",
+      "date": "1997-10-11",
+      "note": 80
+    },
+    {
+      "id": 17,
+      "name": "Matthew Hall",
+      "date": "1998-09-19",
+      "note": 98
+    },
+    {
+      "id": 18,
+      "name": "Grace Lewis",
+      "date": "1999-03-07",
+      "note": 85
+    },
+    {
+      "id": 19,
+      "name": "Andrew Scott",
+      "date": "1997-07-02",
+      "note": 79
+    },
+    {
+      "id": 20,
+      "name": "Chloe Hall",
+      "date": "1998-12-08",
+      "note": 91
+    },
+    {
+      "name": "Art",
+      "note": "13",
+      "date": "2001-12-08",
+      "id": 21
+    },
+    {
+      "name": "Achraf ATT",
+      "note": "16",
+      "date": "1998-12-08",
+      "id": 22
+    },
+    {
+      "name": "Gloria R Henderson",
+      "date": "2023-09-07",
+      "note": "16",
+      "id": 23
+    }
+  ]
+}
